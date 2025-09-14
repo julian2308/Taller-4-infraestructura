@@ -22,7 +22,7 @@ Se propuso el trabajo en clase del caso base para trabajarlo con el grupo de tra
 El boceto inicial es el subido en esta misma carpeta con el nombre. mapa_borrador.jph
 
 Diagrama Arquitectura Empresarial Red Express - Final:
-![alt text](mapa_borrador.jpg)
+![alt text](mapa_borrrador.jpg)
 
 
 ---
